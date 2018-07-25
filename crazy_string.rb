@@ -1,4 +1,4 @@
-crazy_strings
+# crazy_strings
 
 def crazy_strings
 "hello friends".upcase.reverse
