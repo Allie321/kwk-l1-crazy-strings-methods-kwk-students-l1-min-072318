@@ -1,6 +1,6 @@
 crazy_strings
 
-def crazy_strings(a,b)
+def crazy_strings
 "hello friends".upcase.reverse
 end
 puts crazy_strings
