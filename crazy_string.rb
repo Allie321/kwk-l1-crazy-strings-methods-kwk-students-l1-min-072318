@@ -3,4 +3,4 @@ crazy_strings
 def crazy_strings(a,b)
 "hello friends".upcase.reverse
 end
-puts crazy_strings
+puts crazy_strings(a,b)
